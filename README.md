@@ -1,2 +1,2 @@
 # Projects
-All projects that have I taken part of.
+All projects that I have taken part of 
