@@ -1,2 +1,2 @@
 # Projects
-All projects that I have taken part of 
+All of the past projects that I have taken part of as well as some research papers
